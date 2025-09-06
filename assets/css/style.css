@@ -163,7 +163,20 @@ nav.nav-w {
 .line-center {
   margin: 0 auto;
 }
+/* Revolt brand button */
+.button.is-revolt {
+  background-color: #FF4654;
+  border-color: #FF4654;
+  color: #fff;
+}
 
+.button.is-revolt:hover {
+  background-color: #e23d49;
+  border-color: #e23d49;
+  color: #fff;
+}
+
+  
 .line.blurple {
   background: #7289da;
 }
